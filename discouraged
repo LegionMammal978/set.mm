@@ -8794,6 +8794,7 @@
 "iin1" is used by "sspwimpcf".
 "iin1" is used by "suctrALTcf".
 "imaelshi" is used by "rnelshi".
+"imaeqsexvOLD" is used by "imaeqsalvOLD".
 "imbi13" is used by "trsbc".
 "imbi13" is used by "trsbcVD".
 "impexpd" is used by "impexpdcom".
@@ -17504,6 +17505,8 @@ New usage of "iin1" is discouraged (3 uses).
 New usage of "iin2" is discouraged (0 uses).
 New usage of "iin3" is discouraged (0 uses).
 New usage of "imaelshi" is discouraged (1 uses).
+New usage of "imaeqsalvOLD" is discouraged (0 uses).
+New usage of "imaeqsexvOLD" is discouraged (1 uses).
 New usage of "imafiOLD" is discouraged (0 uses).
 New usage of "imbi12VD" is discouraged (0 uses).
 New usage of "imbi13" is discouraged (2 uses).
@@ -21063,6 +21066,8 @@ Proof modification of "iimulcnOLD" is discouraged (201 steps).
 Proof modification of "iin1" is discouraged (1 steps).
 Proof modification of "iin2" is discouraged (1 steps).
 Proof modification of "iin3" is discouraged (1 steps).
+Proof modification of "imaeqsalvOLD" is discouraged (61 steps).
+Proof modification of "imaeqsexvOLD" is discouraged (129 steps).
 Proof modification of "imaexALTV" is discouraged (74 steps).
 Proof modification of "imafiOLD" is discouraged (215 steps).
 Proof modification of "imbi12VD" is discouraged (121 steps).
