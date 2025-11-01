@@ -193,6 +193,9 @@
 "1t1e1ALT" is used by "nnmul1com".
 "1t1e1ALT" is used by "remulinvcom".
 "1t1e1ALT" is used by "sn-0tie0".
+"2a1ii" is used by "dfclelw".
+"2a1ii" is used by "dfcleqab1".
+"2a1ii" is used by "dfcleqab2".
 "2ax6e" is used by "2sb5rf".
 "2ax6e" is used by "2sb6rf".
 "2ax6elem" is used by "2ax6e".
@@ -264,6 +267,8 @@
 "3polN" is used by "2polcon4bN".
 "3polN" is used by "pmapocjN".
 "3polN" is used by "poml5N".
+"4a1ii" is used by "dfclel".
+"4a1ii" is used by "dfcleq".
 "4atex2-0aOLDN" is used by "4atex2-0bOLDN".
 "4ipval2" is used by "ip1ilem".
 "4ipval2" is used by "ipasslem10".
@@ -577,6 +582,42 @@
 "5oalem5" is used by "5oalem6".
 "5oalem6" is used by "5oalem7".
 "5oalem7" is used by "5oai".
+"a1ii" is used by "df3an".
+"a1ii" is used by "df3or".
+"a1ii" is used by "dfan".
+"a1ii" is used by "dfbi".
+"a1ii" is used by "dfcad".
+"a1ii" is used by "dfcdeq".
+"a1ii" is used by "dfclab".
+"a1ii" is used by "dfcleqab12".
+"a1ii" is used by "dfcsb".
+"a1ii" is used by "dfdif".
+"a1ii" is used by "dfeu".
+"a1ii" is used by "dfex".
+"a1ii" is used by "dffal".
+"a1ii" is used by "dfhad".
+"a1ii" is used by "dfifp".
+"a1ii" is used by "dfin".
+"a1ii" is used by "dfmo".
+"a1ii" is used by "dfnan".
+"a1ii" is used by "dfne".
+"a1ii" is used by "dfnel".
+"a1ii" is used by "dfnf".
+"a1ii" is used by "dfnfc".
+"a1ii" is used by "dfnor".
+"a1ii" is used by "dfor".
+"a1ii" is used by "dfrab".
+"a1ii" is used by "dfral".
+"a1ii" is used by "dfreu".
+"a1ii" is used by "dfrex".
+"a1ii" is used by "dfrmo".
+"a1ii" is used by "dfsb".
+"a1ii" is used by "dfsbc".
+"a1ii" is used by "dfss".
+"a1ii" is used by "dftru".
+"a1ii" is used by "dfun".
+"a1ii" is used by "dfv".
+"a1ii" is used by "dfxor".
 "ablo32" is used by "ablo4".
 "ablo32" is used by "ip0i".
 "ablo32" is used by "nvadd32".
@@ -4666,12 +4707,15 @@
 "df-1r" is used by "m1m1sr".
 "df-1r" is used by "m1p1sr".
 "df-1r" is used by "recexsrlem".
+"df-3an" is used by "df3an".
+"df-3or" is used by "df3or".
 "df-ablo" is used by "isablo".
 "df-add" is used by "addcnsr".
 "df-add" is used by "axaddf".
 "df-adjh" is used by "adjeq".
 "df-adjh" is used by "dfadj2".
 "df-aj" is used by "ajfval".
+"df-an" is used by "dfan".
 "df-ass" is used by "isass".
 "df-at" is used by "atssch".
 "df-at" is used by "ela".
@@ -4689,6 +4733,7 @@
 "df-base" is used by "znbas2OLD".
 "df-bdop" is used by "elbdop".
 "df-bdop" is used by "hhbloi".
+"df-bi" is used by "dfbi".
 "df-bj-1upl" is used by "bj-1upleq".
 "df-bj-1upl" is used by "bj-1uplex".
 "df-bj-1upl" is used by "bj-1upln0".
@@ -4787,9 +4832,11 @@
 "df-c" is used by "mulcnsr".
 "df-c" is used by "opelcn".
 "df-c" is used by "wuncn".
+"df-cad" is used by "dfcad".
 "df-cbn" is used by "iscbn".
 "df-cco" is used by "ccoid".
 "df-cco" is used by "ccondx".
+"df-cdeq" is used by "dfcdeq".
 "df-ch" is used by "isch".
 "df-ch0" is used by "df0op2".
 "df-ch0" is used by "elch0".
@@ -4801,6 +4848,15 @@
 "df-ch0" is used by "spansn0".
 "df-chj" is used by "sshjval".
 "df-chsup" is used by "hsupval".
+"df-clab" is used by "dfclab".
+"df-clel" is used by "dfclel".
+"df-clel" is used by "dfclelw".
+"df-clelOLD" is used by "dfclelOLD".
+"df-cleq" is used by "dfcleq".
+"df-cleq" is used by "dfcleqab1".
+"df-cleq" is used by "dfcleqab12".
+"df-cleq" is used by "dfcleqab2".
+"df-cleqOLD" is used by "dfcleqOLD".
 "df-cm" is used by "cmbr".
 "df-cnfld" is used by "cffldtocusgr".
 "df-cnfld" is used by "cnfldbas".
@@ -4821,7 +4877,9 @@
 "df-cnop" is used by "elcnop".
 "df-cnop" is used by "hhcno".
 "df-com2" is used by "iscom2".
+"df-csb" is used by "dfcsb".
 "df-cv" is used by "cvbr".
+"df-dif" is used by "dfdif".
 "df-dip" is used by "dipfval".
 "df-div" is used by "1div0".
 "df-div" is used by "1div0OLD".
@@ -4852,9 +4910,12 @@
 "df-erq" is used by "nqerf".
 "df-erq" is used by "nqerid".
 "df-erq" is used by "nqerrel".
+"df-eu" is used by "dfeu".
 "df-euf" is used by "eufid".
 "df-euf" is used by "eufndx".
+"df-ex" is used by "dfex".
 "df-exid" is used by "isexid".
+"df-fal" is used by "dffal".
 "df-fld" is used by "fldcrngo".
 "df-fld" is used by "flddivrng".
 "df-fld" is used by "isfld2".
@@ -4876,6 +4937,7 @@
 "df-h0v" is used by "axhv0cl-zf".
 "df-h0v" is used by "axhvaddid-zf".
 "df-h0v" is used by "axhvmul0-zf".
+"df-had" is used by "dfhad".
 "df-hba" is used by "axhcompl-zf".
 "df-hba" is used by "axhfi-zf".
 "df-hba" is used by "axhfvadd-zf".
@@ -4924,7 +4986,9 @@
 "df-i" is used by "axcnre".
 "df-i" is used by "axi2m1".
 "df-i" is used by "axicn".
+"df-ifp" is used by "dfifp".
 "df-ims" is used by "imsval".
+"df-in" is used by "dfin".
 "df-iop" is used by "dfiop2".
 "df-iop" is used by "hoid1i".
 "df-iop" is used by "hoid1ri".
@@ -4974,6 +5038,7 @@
 "df-mnf" is used by "mnfnre".
 "df-mnf" is used by "mnfxr".
 "df-mnf" is used by "pnfnemnf".
+"df-mo" is used by "dfmo".
 "df-mp" is used by "1idpr".
 "df-mp" is used by "distrlem1pr".
 "df-mp" is used by "distrlem4pr".
@@ -5000,6 +5065,11 @@
 "df-mulr" is used by "opsrmulrOLD".
 "df-mulr" is used by "zlmmulrOLD".
 "df-mulr" is used by "znmulOLD".
+"df-nan" is used by "dfnan".
+"df-ne" is used by "dfne".
+"df-nel" is used by "dfnel".
+"df-nf" is used by "dfnf".
+"df-nfc" is used by "dfnfc".
 "df-ni" is used by "dmaddpi".
 "df-ni" is used by "dmmulpi".
 "df-ni" is used by "elni".
@@ -5013,6 +5083,7 @@
 "df-nmoo" is used by "nmoofval".
 "df-nmop" is used by "hhnmoi".
 "df-nmop" is used by "nmopval".
+"df-nor" is used by "dfnor".
 "df-np" is used by "elnp".
 "df-np" is used by "elnpi".
 "df-np" is used by "npex".
@@ -5050,6 +5121,7 @@
 "df-oc" is used by "ocval".
 "df-ocomp" is used by "ocid".
 "df-ocomp" is used by "ocndx".
+"df-or" is used by "dfor".
 "df-ph" is used by "isphg".
 "df-ph" is used by "phnv".
 "df-pjh" is used by "pjhfval".
@@ -5095,12 +5167,19 @@
 "df-r" is used by "elreal".
 "df-r" is used by "elreal2".
 "df-r" is used by "opelreal".
+"df-rab" is used by "dfrab".
+"df-ral" is used by "dfral".
+"df-reu" is used by "dfreu".
+"df-rex" is used by "dfrex".
 "df-ringcALTV" is used by "ringcvalALTV".
+"df-rmo" is used by "dfrmo".
 "df-rngcALTV" is used by "rngcvalALTV".
 "df-rngo" is used by "isrngo".
 "df-rngo" is used by "relrngo".
 "df-rq" is used by "dmrecnq".
 "df-rq" is used by "recmulnq".
+"df-sb" is used by "dfsb".
+"df-sbc" is used by "dfsbc".
 "df-sca" is used by "mnringscadOLD".
 "df-sca" is used by "opsrscaOLD".
 "df-sca" is used by "scaid".
@@ -5117,17 +5196,21 @@
 "df-sm" is used by "smfval".
 "df-span" is used by "spanval".
 "df-spec" is used by "specval".
+"df-ss" is used by "dfss".
 "df-ssp" is used by "sspval".
 "df-st" is used by "isst".
 "df-starv" is used by "starvid".
 "df-starv" is used by "starvndx".
 "df-trkg2d" is used by "istrkg2d".
-"df-tru" is used by "tru".
+"df-tru" is used by "dftru".
+"df-truOLD" is used by "truOLD".
 "df-tset" is used by "tsetid".
 "df-tset" is used by "tsetndx".
+"df-un" is used by "dfun".
 "df-unif" is used by "unifid".
 "df-unif" is used by "unifndx".
 "df-unop" is used by "elunop".
+"df-v" is used by "dfv".
 "df-va" is used by "0vfval".
 "df-va" is used by "vafval".
 "df-va" is used by "vsfval".
@@ -5149,6 +5232,7 @@
 "df-vsca" is used by "opsrvscaOLD".
 "df-vsca" is used by "vscaid".
 "df-vsca" is used by "vscandx".
+"df-xor" is used by "dfxor".
 "df0op2" is used by "hh0oi".
 "df0op2" is used by "ho01i".
 "df0op2" is used by "nmop0h".
@@ -5191,6 +5275,7 @@
 "dfsb1" is used by "drsb1".
 "dfsb1" is used by "frege55b".
 "dfsb2" is used by "dfsb3".
+"dftru" is used by "tru".
 "dfvd1imp" is used by "gen11".
 "dfvd1impr" is used by "gen11".
 "dfvd1ir" is used by "2uasbanhVD".
@@ -14305,6 +14390,7 @@ New usage of "1strbasOLD" is discouraged (0 uses).
 New usage of "1strstr" is discouraged (1 uses).
 New usage of "1t1e1ALT" is discouraged (3 uses).
 New usage of "235t711" is discouraged (0 uses).
+New usage of "2a1ii" is discouraged (3 uses).
 New usage of "2atm2atN" is discouraged (0 uses).
 New usage of "2atnelvolN" is discouraged (0 uses).
 New usage of "2ax6e" is discouraged (2 uses).
@@ -14387,6 +14473,7 @@ New usage of "3orel2OLD" is discouraged (0 uses).
 New usage of "3ornot23" is discouraged (2 uses).
 New usage of "3ornot23VD" is discouraged (0 uses).
 New usage of "3polN" is discouraged (4 uses).
+New usage of "4a1ii" is discouraged (2 uses).
 New usage of "4atex2-0aOLDN" is discouraged (1 uses).
 New usage of "4atex2-0bOLDN" is discouraged (0 uses).
 New usage of "4atex2-0cOLDN" is discouraged (0 uses).
@@ -14401,7 +14488,7 @@ New usage of "5oalem5" is discouraged (1 uses).
 New usage of "5oalem6" is discouraged (1 uses).
 New usage of "5oalem7" is discouraged (1 uses).
 New usage of "9p10ne21fool" is discouraged (0 uses).
-New usage of "a1ii" is discouraged (0 uses).
+New usage of "a1ii" is discouraged (36 uses).
 New usage of "aaanOLD" is discouraged (0 uses).
 New usage of "ab0ALT" is discouraged (0 uses).
 New usage of "ab0orvALT" is discouraged (0 uses).
@@ -15857,15 +15944,19 @@ New usage of "df-1" is discouraged (5 uses).
 New usage of "df-1nq" is discouraged (5 uses).
 New usage of "df-1p" is discouraged (4 uses).
 New usage of "df-1r" is discouraged (6 uses).
+New usage of "df-3an" is discouraged (1 uses).
+New usage of "df-3or" is discouraged (1 uses).
 New usage of "df-ablo" is discouraged (1 uses).
 New usage of "df-add" is discouraged (2 uses).
 New usage of "df-adjh" is discouraged (2 uses).
 New usage of "df-aj" is discouraged (1 uses).
+New usage of "df-an" is discouraged (1 uses).
 New usage of "df-ass" is discouraged (1 uses).
 New usage of "df-at" is discouraged (2 uses).
 New usage of "df-ba" is discouraged (1 uses).
 New usage of "df-base" is discouraged (11 uses).
 New usage of "df-bdop" is discouraged (2 uses).
+New usage of "df-bi" is discouraged (1 uses).
 New usage of "df-bj-1upl" is discouraged (6 uses).
 New usage of "df-bj-2upl" is discouraged (6 uses).
 New usage of "df-bj-arg" is discouraged (0 uses).
@@ -15889,18 +15980,27 @@ New usage of "df-bnj18" is discouraged (2 uses).
 New usage of "df-bnj19" is discouraged (5 uses).
 New usage of "df-bra" is discouraged (3 uses).
 New usage of "df-c" is discouraged (12 uses).
+New usage of "df-cad" is discouraged (1 uses).
 New usage of "df-cbn" is discouraged (1 uses).
 New usage of "df-cco" is discouraged (2 uses).
+New usage of "df-cdeq" is discouraged (1 uses).
 New usage of "df-ch" is discouraged (1 uses).
 New usage of "df-ch0" is discouraged (8 uses).
 New usage of "df-chj" is discouraged (1 uses).
 New usage of "df-chsup" is discouraged (1 uses).
+New usage of "df-clab" is discouraged (1 uses).
+New usage of "df-clel" is discouraged (2 uses).
+New usage of "df-clelOLD" is discouraged (1 uses).
+New usage of "df-cleq" is discouraged (4 uses).
+New usage of "df-cleqOLD" is discouraged (1 uses).
 New usage of "df-cm" is discouraged (1 uses).
 New usage of "df-cnfld" is discouraged (14 uses).
 New usage of "df-cnfn" is discouraged (2 uses).
 New usage of "df-cnop" is discouraged (2 uses).
 New usage of "df-com2" is discouraged (1 uses).
+New usage of "df-csb" is discouraged (1 uses).
 New usage of "df-cv" is discouraged (1 uses).
+New usage of "df-dif" is discouraged (1 uses).
 New usage of "df-dip" is discouraged (1 uses).
 New usage of "df-div" is discouraged (9 uses).
 New usage of "df-dmd" is discouraged (1 uses).
@@ -15912,8 +16012,11 @@ New usage of "df-eigvec" is discouraged (1 uses).
 New usage of "df-enq" is discouraged (3 uses).
 New usage of "df-enr" is discouraged (4 uses).
 New usage of "df-erq" is discouraged (3 uses).
+New usage of "df-eu" is discouraged (1 uses).
 New usage of "df-euf" is discouraged (2 uses).
+New usage of "df-ex" is discouraged (1 uses).
 New usage of "df-exid" is discouraged (1 uses).
+New usage of "df-fal" is discouraged (1 uses).
 New usage of "df-fld" is discouraged (3 uses).
 New usage of "df-gcdOLD" is discouraged (1 uses).
 New usage of "df-gdiv" is discouraged (2 uses).
@@ -15926,6 +16029,7 @@ New usage of "df-gt" is discouraged (2 uses).
 New usage of "df-gte" is discouraged (2 uses).
 New usage of "df-h0op" is discouraged (3 uses).
 New usage of "df-h0v" is discouraged (4 uses).
+New usage of "df-had" is discouraged (1 uses).
 New usage of "df-hba" is discouraged (25 uses).
 New usage of "df-hcau" is discouraged (2 uses).
 New usage of "df-hfmul" is discouraged (1 uses).
@@ -15942,7 +16046,9 @@ New usage of "df-hosum" is discouraged (1 uses).
 New usage of "df-hst" is discouraged (1 uses).
 New usage of "df-hvsub" is discouraged (3 uses).
 New usage of "df-i" is discouraged (4 uses).
+New usage of "df-ifp" is discouraged (1 uses).
 New usage of "df-ims" is discouraged (1 uses).
+New usage of "df-in" is discouraged (1 uses).
 New usage of "df-iop" is discouraged (7 uses).
 New usage of "df-ip" is discouraged (2 uses).
 New usage of "df-ipo" is discouraged (1 uses).
@@ -15967,24 +16073,32 @@ New usage of "df-mi" is discouraged (2 uses).
 New usage of "df-mndo" is discouraged (3 uses).
 New usage of "df-mndtc" is discouraged (1 uses).
 New usage of "df-mnf" is discouraged (3 uses).
+New usage of "df-mo" is discouraged (1 uses).
 New usage of "df-mp" is discouraged (11 uses).
 New usage of "df-mpq" is discouraged (3 uses).
 New usage of "df-mq" is discouraged (2 uses).
 New usage of "df-mr" is discouraged (2 uses).
 New usage of "df-mul" is discouraged (2 uses).
 New usage of "df-mulr" is discouraged (6 uses).
+New usage of "df-nan" is discouraged (1 uses).
+New usage of "df-ne" is discouraged (1 uses).
+New usage of "df-nel" is discouraged (1 uses).
+New usage of "df-nf" is discouraged (1 uses).
+New usage of "df-nfc" is discouraged (1 uses).
 New usage of "df-ni" is discouraged (7 uses).
 New usage of "df-nlfn" is discouraged (1 uses).
 New usage of "df-nmcv" is discouraged (1 uses).
 New usage of "df-nmfn" is discouraged (1 uses).
 New usage of "df-nmoo" is discouraged (1 uses).
 New usage of "df-nmop" is discouraged (2 uses).
+New usage of "df-nor" is discouraged (1 uses).
 New usage of "df-np" is discouraged (3 uses).
 New usage of "df-nq" is discouraged (5 uses).
 New usage of "df-nr" is discouraged (24 uses).
 New usage of "df-nv" is discouraged (2 uses).
 New usage of "df-oc" is discouraged (1 uses).
 New usage of "df-ocomp" is discouraged (2 uses).
+New usage of "df-or" is discouraged (1 uses).
 New usage of "df-ph" is discouraged (2 uses).
 New usage of "df-pjh" is discouraged (2 uses).
 New usage of "df-ple" is discouraged (2 uses).
@@ -15997,10 +16111,17 @@ New usage of "df-plusg" is discouraged (9 uses).
 New usage of "df-pnf" is discouraged (3 uses).
 New usage of "df-prstc" is discouraged (1 uses).
 New usage of "df-r" is discouraged (6 uses).
+New usage of "df-rab" is discouraged (1 uses).
+New usage of "df-ral" is discouraged (1 uses).
+New usage of "df-reu" is discouraged (1 uses).
+New usage of "df-rex" is discouraged (1 uses).
 New usage of "df-ringcALTV" is discouraged (1 uses).
+New usage of "df-rmo" is discouraged (1 uses).
 New usage of "df-rngcALTV" is discouraged (1 uses).
 New usage of "df-rngo" is discouraged (2 uses).
 New usage of "df-rq" is discouraged (2 uses).
+New usage of "df-sb" is discouraged (1 uses).
+New usage of "df-sbc" is discouraged (1 uses).
 New usage of "df-sca" is discouraged (4 uses).
 New usage of "df-setrecs" is discouraged (5 uses).
 New usage of "df-sgrOLD" is discouraged (2 uses).
@@ -16009,14 +16130,18 @@ New usage of "df-shs" is discouraged (1 uses).
 New usage of "df-sm" is discouraged (1 uses).
 New usage of "df-span" is discouraged (1 uses).
 New usage of "df-spec" is discouraged (1 uses).
+New usage of "df-ss" is discouraged (1 uses).
 New usage of "df-ssp" is discouraged (1 uses).
 New usage of "df-st" is discouraged (1 uses).
 New usage of "df-starv" is discouraged (2 uses).
 New usage of "df-trkg2d" is discouraged (1 uses).
 New usage of "df-tru" is discouraged (1 uses).
+New usage of "df-truOLD" is discouraged (1 uses).
 New usage of "df-tset" is discouraged (2 uses).
+New usage of "df-un" is discouraged (1 uses).
 New usage of "df-unif" is discouraged (2 uses).
 New usage of "df-unop" is discouraged (1 uses).
+New usage of "df-v" is discouraged (1 uses).
 New usage of "df-va" is discouraged (3 uses).
 New usage of "df-vc" is discouraged (3 uses).
 New usage of "df-vd1" is discouraged (6 uses).
@@ -16026,6 +16151,7 @@ New usage of "df-vhc2" is discouraged (1 uses).
 New usage of "df-vhc3" is discouraged (1 uses).
 New usage of "df-vs" is discouraged (1 uses).
 New usage of "df-vsca" is discouraged (4 uses).
+New usage of "df-xor" is discouraged (1 uses).
 New usage of "df0op2" is discouraged (3 uses).
 New usage of "dfac5lem4OLD" is discouraged (0 uses).
 New usage of "dfadj2" is discouraged (7 uses).
@@ -16033,10 +16159,12 @@ New usage of "dfbi1ALT" is discouraged (0 uses).
 New usage of "dfbi1ALTa" is discouraged (0 uses).
 New usage of "dfbi1ALTb" is discouraged (0 uses).
 New usage of "dfch2" is discouraged (0 uses).
+New usage of "dfclelOLD" is discouraged (0 uses).
+New usage of "dfcleqOLD" is discouraged (0 uses).
 New usage of "dfcnfldOLD" is discouraged (13 uses).
 New usage of "dfcnqs" is discouraged (4 uses).
 New usage of "dfdif3OLD" is discouraged (0 uses).
-New usage of "dfeu" is discouraged (0 uses).
+New usage of "dfeuX" is discouraged (0 uses).
 New usage of "dffr2ALT" is discouraged (0 uses).
 New usage of "dffun2OLD" is discouraged (0 uses).
 New usage of "dffun2OLDOLD" is discouraged (0 uses).
@@ -16048,7 +16176,7 @@ New usage of "dfid2OLD" is discouraged (0 uses).
 New usage of "dfid3" is discouraged (1 uses).
 New usage of "dfiop2" is discouraged (3 uses).
 New usage of "dfiun2gOLD" is discouraged (0 uses).
-New usage of "dfmo" is discouraged (0 uses).
+New usage of "dfmoX" is discouraged (0 uses).
 New usage of "dfpjop" is discouraged (4 uses).
 New usage of "dfrecs3OLD" is discouraged (0 uses).
 New usage of "dfsb1" is discouraged (3 uses).
@@ -16056,6 +16184,7 @@ New usage of "dfsb2" is discouraged (1 uses).
 New usage of "dfsb3" is discouraged (0 uses).
 New usage of "dfsn2ALT" is discouraged (0 uses).
 New usage of "dftr5OLD" is discouraged (0 uses).
+New usage of "dftru" is discouraged (1 uses).
 New usage of "dftru2" is discouraged (0 uses).
 New usage of "dfvd1imp" is discouraged (1 uses).
 New usage of "dfvd1impr" is discouraged (1 uses).
@@ -19351,6 +19480,7 @@ New usage of "trsbcVD" is discouraged (0 uses).
 New usage of "trsspwALT" is discouraged (0 uses).
 New usage of "trsspwALT2" is discouraged (0 uses).
 New usage of "trsspwALT3" is discouraged (0 uses).
+New usage of "truOLD" is discouraged (0 uses).
 New usage of "truniALT" is discouraged (0 uses).
 New usage of "truniALTVD" is discouraged (0 uses).
 New usage of "tsetndx" is discouraged (24 uses).
@@ -19615,6 +19745,7 @@ Proof modification of "1sdom2ALT" is discouraged (18 steps).
 Proof modification of "1sdomOLD" is discouraged (294 steps).
 Proof modification of "1strbasOLD" is discouraged (22 steps).
 Proof modification of "1t1e1ALT" is discouraged (13 steps).
+Proof modification of "2a1ii" is discouraged (1 steps).
 Proof modification of "2bornot2b" is discouraged (26 steps).
 Proof modification of "2cnALT" is discouraged (3 steps).
 Proof modification of "2irrexpqALT" is discouraged (90 steps).
@@ -19652,6 +19783,7 @@ Proof modification of "3orbi123VD" is discouraged (134 steps).
 Proof modification of "3orel2OLD" is discouraged (32 steps).
 Proof modification of "3ornot23" is discouraged (28 steps).
 Proof modification of "3ornot23VD" is discouraged (74 steps).
+Proof modification of "4a1ii" is discouraged (1 steps).
 Proof modification of "9p10ne21fool" is discouraged (33 steps).
 Proof modification of "a1ii" is discouraged (1 steps).
 Proof modification of "aaanOLD" is discouraged (38 steps).
@@ -20135,24 +20267,65 @@ Proof modification of "cxpcnOLD" is discouraged (298 steps).
 Proof modification of "daraptiALT" is discouraged (23 steps).
 Proof modification of "dariiALT" is discouraged (19 steps).
 Proof modification of "demoivreALT" is discouraged (1087 steps).
+Proof modification of "df3an" is discouraged (20 steps).
+Proof modification of "df3or" is discouraged (20 steps).
 Proof modification of "dfac5lem4OLD" is discouraged (689 steps).
+Proof modification of "dfan" is discouraged (18 steps).
+Proof modification of "dfbi" is discouraged (32 steps).
 Proof modification of "dfbi1ALT" is discouraged (100 steps).
 Proof modification of "dfbi1ALTa" is discouraged (71 steps).
 Proof modification of "dfbi1ALTb" is discouraged (36 steps).
+Proof modification of "dfcad" is discouraged (24 steps).
+Proof modification of "dfcdeq" is discouraged (20 steps).
+Proof modification of "dfclab" is discouraged (21 steps).
+Proof modification of "dfclel" is discouraged (167 steps).
+Proof modification of "dfclelOLD" is discouraged (17 steps).
+Proof modification of "dfclelw" is discouraged (53 steps).
+Proof modification of "dfcleq" is discouraged (89 steps).
+Proof modification of "dfcleqOLD" is discouraged (17 steps).
+Proof modification of "dfcleqab1" is discouraged (80 steps).
+Proof modification of "dfcleqab12" is discouraged (58 steps).
+Proof modification of "dfcleqab2" is discouraged (80 steps).
 Proof modification of "dfcnfldOLD" is discouraged (195 steps).
+Proof modification of "dfcsb" is discouraged (48 steps).
+Proof modification of "dfdif" is discouraged (58 steps).
 Proof modification of "dfdif3OLD" is discouraged (137 steps).
-Proof modification of "dfeu" is discouraged (35 steps).
+Proof modification of "dfeu" is discouraged (20 steps).
+Proof modification of "dfeuX" is discouraged (35 steps).
+Proof modification of "dfex" is discouraged (18 steps).
+Proof modification of "dffal" is discouraged (11 steps).
 Proof modification of "dffr2ALT" is discouraged (64 steps).
 Proof modification of "dffun2OLD" is discouraged (109 steps).
 Proof modification of "dffun2OLDOLD" is discouraged (157 steps).
 Proof modification of "dffun3OLD" is discouraged (72 steps).
 Proof modification of "dffun6OLD" is discouraged (10 steps).
+Proof modification of "dfhad" is discouraged (20 steps).
 Proof modification of "dfid2OLD" is discouraged (3 steps).
+Proof modification of "dfifp" is discouraged (23 steps).
+Proof modification of "dfin" is discouraged (52 steps).
 Proof modification of "dfiun2gOLD" is discouraged (131 steps).
-Proof modification of "dfmo" is discouraged (44 steps).
+Proof modification of "dfmoX" is discouraged (44 steps).
+Proof modification of "dfnan" is discouraged (17 steps).
+Proof modification of "dfne" is discouraged (17 steps).
+Proof modification of "dfnel" is discouraged (17 steps).
+Proof modification of "dfnf" is discouraged (20 steps).
+Proof modification of "dfnfc" is discouraged (43 steps).
+Proof modification of "dfnor" is discouraged (17 steps).
+Proof modification of "dfor" is discouraged (17 steps).
+Proof modification of "dfrab" is discouraged (23 steps).
+Proof modification of "dfral" is discouraged (23 steps).
 Proof modification of "dfrecs3OLD" is discouraged (263 steps).
+Proof modification of "dfreu" is discouraged (23 steps).
+Proof modification of "dfrex" is discouraged (23 steps).
+Proof modification of "dfrmo" is discouraged (23 steps).
+Proof modification of "dfsb" is discouraged (70 steps).
+Proof modification of "dfsbc" is discouraged (20 steps).
 Proof modification of "dfsn2ALT" is discouraged (30 steps).
+Proof modification of "dfss" is discouraged (52 steps).
 Proof modification of "dftr5OLD" is discouraged (93 steps).
+Proof modification of "dftru" is discouraged (16 steps).
+Proof modification of "dfun" is discouraged (52 steps).
+Proof modification of "dfv" is discouraged (39 steps).
 Proof modification of "dfvd1imp" is discouraged (10 steps).
 Proof modification of "dfvd1impr" is discouraged (10 steps).
 Proof modification of "dfvd1ir" is discouraged (11 steps).
@@ -20171,6 +20344,7 @@ Proof modification of "dfvd3anir" is discouraged (19 steps).
 Proof modification of "dfvd3i" is discouraged (19 steps).
 Proof modification of "dfvd3ir" is discouraged (19 steps).
 Proof modification of "dfwrecsOLD" is discouraged (619 steps).
+Proof modification of "dfxor" is discouraged (17 steps).
 Proof modification of "dif1enOLD" is discouraged (313 steps).
 Proof modification of "dif1enlemOLD" is discouraged (285 steps).
 Proof modification of "dif1ennnALT" is discouraged (335 steps).
@@ -21360,6 +21534,7 @@ Proof modification of "trsbcVD" is discouraged (396 steps).
 Proof modification of "trsspwALT" is discouraged (64 steps).
 Proof modification of "trsspwALT2" is discouraged (65 steps).
 Proof modification of "trsspwALT3" is discouraged (27 steps).
+Proof modification of "truOLD" is discouraged (14 steps).
 Proof modification of "truimtru" is discouraged (6 steps).
 Proof modification of "truniALT" is discouraged (183 steps).
 Proof modification of "truniALTVD" is discouraged (220 steps).
