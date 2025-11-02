@@ -589,7 +589,7 @@
 "a1ii" is used by "dfcad".
 "a1ii" is used by "dfcdeq".
 "a1ii" is used by "dfclab".
-"a1ii" is used by "dfcleqab12".
+"a1ii" is used by "dfcleqab".
 "a1ii" is used by "dfcsb".
 "a1ii" is used by "dfdif".
 "a1ii" is used by "dfeu".
@@ -4853,8 +4853,8 @@
 "df-clel" is used by "dfclelw".
 "df-clelOLD" is used by "dfclelOLD".
 "df-cleq" is used by "dfcleq".
+"df-cleq" is used by "dfcleqab".
 "df-cleq" is used by "dfcleqab1".
-"df-cleq" is used by "dfcleqab12".
 "df-cleq" is used by "dfcleqab2".
 "df-cleqOLD" is used by "dfcleqOLD".
 "df-cm" is used by "cmbr".
@@ -14492,6 +14492,7 @@ New usage of "a1ii" is discouraged (36 uses).
 New usage of "aaanOLD" is discouraged (0 uses).
 New usage of "ab0ALT" is discouraged (0 uses).
 New usage of "ab0orvALT" is discouraged (0 uses).
+New usage of "abbibOLD" is discouraged (0 uses).
 New usage of "abid2fOLD" is discouraged (0 uses).
 New usage of "ablo32" is discouraged (4 uses).
 New usage of "ablo4" is discouraged (3 uses).
@@ -19789,6 +19790,7 @@ Proof modification of "a1ii" is discouraged (1 steps).
 Proof modification of "aaanOLD" is discouraged (38 steps).
 Proof modification of "ab0ALT" is discouraged (33 steps).
 Proof modification of "ab0orvALT" is discouraged (19 steps).
+Proof modification of "abbibOLD" is discouraged (87 steps).
 Proof modification of "abid2fOLD" is discouraged (26 steps).
 Proof modification of "abrexexgOLD" is discouraged (43 steps).
 Proof modification of "abscncfALT" is discouraged (71 steps).
@@ -20283,8 +20285,8 @@ Proof modification of "dfclelOLD" is discouraged (17 steps).
 Proof modification of "dfclelw" is discouraged (53 steps).
 Proof modification of "dfcleq" is discouraged (89 steps).
 Proof modification of "dfcleqOLD" is discouraged (17 steps).
+Proof modification of "dfcleqab" is discouraged (58 steps).
 Proof modification of "dfcleqab1" is discouraged (80 steps).
-Proof modification of "dfcleqab12" is discouraged (58 steps).
 Proof modification of "dfcleqab2" is discouraged (80 steps).
 Proof modification of "dfcnfldOLD" is discouraged (195 steps).
 Proof modification of "dfcsb" is discouraged (48 steps).
